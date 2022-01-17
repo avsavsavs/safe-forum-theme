@@ -1,0 +1,11 @@
+{
+  "name": "safe-forum-theme",
+  "version": "1.0.0",
+  "description": "Safe Forum Theme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gnosis/safe-forum-theme.git"
+  },
+  "author": "Gnosis (https://gnosis.io)",
+  "license": "MIT"
+}
