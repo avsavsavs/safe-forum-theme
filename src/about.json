@@ -1,0 +1,63 @@
+{
+  "name": "Safe Custom Theme Light",
+  "component": false,
+  "license_url": null,
+  "about_url": null,
+  "authors": null,
+  "theme_version": null,
+  "minimum_discourse_version": null,
+  "maximum_discourse_version": null,
+  "assets": {
+  },
+  "color_schemes": {
+    "Gnosis-Safe-Light": {
+      "primary": "111b22",
+      "secondary": "ffffff",
+      "tertiary": "008c73",
+      "quaternary": "008c73",
+      "header_background": "ffffff",
+      "header_primary": "111b22",
+      "highlight": "008c73",
+      "danger": "c31717",
+      "success": "3d854d",
+      "love": "9d256b",
+      "primary-low-mid": "566976",
+      "primary-medium": "414141",
+      "tertiary-very-low": "f7f5f5",
+      "tertiary-low": "f7f5f5",
+      "quaternary-low": "f7f5f5",
+      "highlight-low": "ffffff",
+      "highlight-medium": "ffffff",
+      "highlight-high": "008c73",
+      "tertiary-med-or-tertiary": "008c73"
+    },
+    "air-light": {
+      "primary": "1c1c1c",
+      "secondary": "f9fcff",
+      "tertiary": "3877e5",
+      "quaternary": "7e8b93",
+      "header_background": "f9fcff",
+      "header_primary": "122b43",
+      "highlight": "e6cb37",
+      "danger": "d05454",
+      "success": "71bd9f",
+      "love": "c16ad7"
+    },
+    "air-dark": {
+      "primary": "e0e0e0",
+      "secondary": "2d2d2d",
+      "tertiary": "9a5cfd",
+      "quaternary": "71bd9f",
+      "header_background": "202020",
+      "header_primary": "e0e0e0",
+      "highlight": "9a5cfd",
+      "danger": "d05454",
+      "success": "71bd9f",
+      "love": "c16ad7"
+    }
+  },
+  "modifiers": {
+    "serialize_topic_excerpts": true
+  },
+  "learn_more": "https://meta.discourse.org/t/beginners-guide-to-using-discourse-themes/91966"
+}
