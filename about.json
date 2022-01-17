@@ -1,5 +1,5 @@
 {
-  "name": "Safe Custom Theme Light",
+  "name": "CoW Custom Theme Light",
   "component": false,
   "license_url": "https://github.com/gnosis/safe-forum-theme/blob/main/LICENSE.md",
   "about_url": null,
@@ -10,12 +10,12 @@
   "assets": {
   },
   "color_schemes": {
-    "Gnosis-Safe-Light": {
-      "primary": "111b22",
-      "secondary": "ffffff",
-      "tertiary": "008c73",
-      "quaternary": "008c73",
-      "header_background": "ffffff",
+    "CoW-Theme": {
+      "primary": "ffffff",
+      "secondary": "000000",
+      "tertiary": "ED6834",
+      "quaternary": "ED6834",
+      "header_background": "000000",
       "header_primary": "111b22",
       "highlight": "008c73",
       "danger": "c31717",
@@ -28,8 +28,8 @@
       "quaternary-low": "f7f5f5",
       "highlight-low": "ffffff",
       "highlight-medium": "ffffff",
-      "highlight-high": "008c73",
-      "tertiary-med-or-tertiary": "008c73"
+      "highlight-high": "ED6834",
+      "tertiary-med-or-tertiary": "ED6834"
     },
     "air-light": {
       "primary": "1c1c1c",
