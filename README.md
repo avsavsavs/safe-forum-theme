@@ -1,4 +1,4 @@
-# Safe Forum Theme
+# CoW Forum Theme
 
 Custom theme used in the [cow.fi forum](https://forum.cow.fi/).
 
