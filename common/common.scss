@@ -1,10 +1,11 @@
-// custom search banner customizations
+  $font-stack: 'Averta', Arial, sans-serif;
+
   :root {
-    --font-family: 'Helvetica', Arial, sans-serif;
+    --font-family: $font-stack;
   }
 
   body {
-    font-family: 'Helvetica', Arial, sans-serif;
+    font-family: $font-stack;
   }
 
   .cooked {
