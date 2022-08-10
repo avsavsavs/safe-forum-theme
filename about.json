@@ -13,8 +13,8 @@
     "CoW-Theme": {
       "primary": "CAE9FF",
       "secondary": "042456",
-      "tertiary": "ED6834",
-      "quaternary": "ED6834",
+      "tertiary": "cae9ff",
+      "quaternary": "cae9ff",
       "header_background": "042456",
       "header_primary": "111b22",
       "highlight": "CAE9FF",
@@ -31,10 +31,10 @@
       "tertiary-very-low": "f7f5f5",
       "tertiary-low": "052B65",
       "quaternary-low": "f7f5f5",
-      "highlight-low": "ED6834",
-      "highlight-medium": "ED6834",
-      "highlight-high": "ED6834",
-      "tertiary-med-or-tertiary": "ED6834"
+      "highlight-low": "cae9ff",
+      "highlight-medium": "cae9ff",
+      "highlight-high": "cae9ff",
+      "tertiary-med-or-tertiary": "cae9ff"
     },
     "air-light": {
       "primary": "1c1c1c",
